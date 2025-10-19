@@ -138,7 +138,6 @@ You can deploy the app on any PHP-compatible hosting service such as:
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of your homepage, admin panel, and forms here)*  
 
 ---
 
